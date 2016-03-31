@@ -1,8 +1,8 @@
 # jpeg-js
 
-A pure javascript JPEG encoder and decoder for node.js
+A pure javascript JPEG encoder and decoder for node.js, modified to return low level JPEG compression domain objects.
 
-[![build status](https://secure.travis-ci.org/eugeneware/jpeg-js.png)](http://travis-ci.org/eugeneware/jpeg-js)
+
 
 ## Installation
 
